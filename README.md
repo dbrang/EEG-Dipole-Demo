@@ -6,6 +6,8 @@ A lightweight, interactive web-based tool designed to build an intuitive underst
 
 It features a Zero-Dependency architecture, contained entirely within a single HTML file for easy sharing and offline use.
 
+## Run Demo at https://dbrang.github.io/EEG-Dipole-Demo/
+
 ## 🎯 Purpose
 
 Understanding EEG requires grasping the "Inverse Problem" (guessing the source from the scalp) and the "Forward Problem" (calculating the scalp potential from a known source). This tool visualizes the **Forward Problem** in real-time, helping students and researchers understand:
